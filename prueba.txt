@@ -4,3 +4,4 @@ Tema 3. Mercurial
 Tema 4. Monotone
 
 Esto es una nueva actualización de nuestro proyecto
+Equipo Jimenez y Rodriguez
